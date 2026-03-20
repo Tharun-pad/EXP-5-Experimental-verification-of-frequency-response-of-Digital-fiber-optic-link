@@ -74,20 +74,15 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ---
 
 ## TABULATION  
-**Transmission through Digital Link**
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
-
+![ouput](table5.jpeg)
 ---
 
-## MODEL GRAPH
-
-*(Insert model graph here)*
+## GRAPH
+![output](exp5.jpeg)
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the relationship between input and received signal of a 600nm fiber optic cable using digital link is verified successfully.
+
