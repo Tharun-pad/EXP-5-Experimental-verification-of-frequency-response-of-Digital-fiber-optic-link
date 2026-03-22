@@ -1,5 +1,5 @@
 
-Exp 5 Experimental verification of frequency response of Digital fiber optic link
+# Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
@@ -63,15 +63,6 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 -	Observe the detected signal at post TTL OUT on oscilloscope.
  
  <img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/8d9bec6a-254a-428d-80f3-5e453cef0e62" />
-
----
-
-
-## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
----
 
 ## TABULATION  
 ![ouput](table5.jpeg)
