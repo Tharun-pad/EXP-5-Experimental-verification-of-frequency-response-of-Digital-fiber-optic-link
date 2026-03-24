@@ -63,6 +63,14 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 -	Observe the detected signal at post TTL OUT on oscilloscope.
  
  <img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/8d9bec6a-254a-428d-80f3-5e453cef0e62" />
+
+ # Block Diagram
+ <img width="709" height="425" alt="image" src="https://github.com/user-attachments/assets/f6a5151b-786b-49af-bac7-1e7a6461cfda" />
+
+ # Model Graph
+<img width="709" height="348" alt="image" src="https://github.com/user-attachments/assets/105ef2c1-07c7-47d2-ba7b-d6a48164b3c5" />
+ 
+
  
 # TABULATION  
 
